@@ -1,6 +1,6 @@
 {
   "name": "async-to-genify",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Browserify transform for async-to-gen. Turns async functions into generator functions.",
   "main": "index.js",
   "dependencies": {
