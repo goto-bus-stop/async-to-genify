@@ -1,5 +1,7 @@
 # async-to-genify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/goto-bus-stop/async-to-genify.svg)](https://greenkeeper.io/)
+
 Browserify transform for [async-to-gen](https://github.com/leebyron/async-to-gen).
 Turns async functions into generator functions.
 
