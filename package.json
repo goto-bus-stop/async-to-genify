@@ -1,0 +1,21 @@
+{
+  "name": "async-to-genify",
+  "version": "0.0.0",
+  "description": "Browserify transform for async-to-gen. Turns async functions into generator functions.",
+  "main": "index.js",
+  "dependencies": {
+    "async-to-gen": "^1.3.2",
+    "through2": "^2.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async-to-gen",
+    "async functions",
+    "browserify",
+    "generators"
+  ],
+  "author": "Renée Kooi <renee@kooi.me>",
+  "license": "MIT"
+}
